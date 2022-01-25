@@ -1,0 +1,17 @@
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.exe
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.deps.json
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.json
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.dev.json
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\DIO\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.AssemblyReference.cache
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfoInputs.cache
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfo.cs
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CoreCompileInputs.cache
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CopyComplete
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\DIO\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.genruntimeconfig.cache
